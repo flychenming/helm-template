@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: 192.168.7.140/vipmro-search/search-api
+  repository: repository/search/search-api
   pullPolicy: IfNotPresent
   tag: 202004161559
 
